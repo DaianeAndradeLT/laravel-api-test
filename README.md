@@ -3,7 +3,7 @@
 Este guia fornece instruções passo a passo para configurar e executar o projeto localmente.
 
 Este projeto é composto por duas partes, sendo elas
-- Repositório do Backend: [simple-api-integration](https://github.com/DaianeAndradeLT/simple-api-integration)
+- Repositório do Backend: [laravel-api-test](https://github.com/DaianeAndradeLT/laravel-api-test )
 - Repositório do Frontend: [breeze-next](https://github.com/DaianeAndradeLT/breeze-next)
 ## Pré-requisitos
 
@@ -13,17 +13,18 @@ Antes de iniciar, certifique-se de ter os seguintes requisitos instalados em sua
 - [Composer](https://getcomposer.org/)
 - [Node.js](https://nodejs.org/) >= 12.x
 - [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
-- Um servidor de banco de dados MySQL ou similar (por exemplo, MariaDB)
+- Um servidor de banco de dados MySQL ou simular. O projeto está configurado para conectar-se ao MYSQL, mas você pode alterar as configurações do banco de dados conforme necessário.
+
 
 ## Configuração do Backend
 
 1. Clone o repositório do projeto backend:
 
     ```bash
-    git clone https://github.com/DaianeAndradeLT/simple-api-integration
+    git clone https://github.com/DaianeAndradeLT/laravel-api-test 
     ```
 
-    Repositório do Backend: [simple-api-integration](https://github.com/DaianeAndradeLT/simple-api-integration)
+    Repositório do Backend: [laravel-api-test](https://github.com/DaianeAndradeLT/laravel-api-test )
 
 
 2. Navegue até o diretório do projeto backend:
